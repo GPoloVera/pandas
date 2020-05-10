@@ -1,0 +1,5 @@
+{
+  "terminal.integrated.inheritEnv": false,
+  "editor.wordWrap": "on",
+  "python.pythonPath": "/Users/gonzalopolo/miniconda3/envs/spacy_env/bin/python"
+}
